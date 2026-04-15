@@ -97,7 +97,7 @@ A **React Native mobile application** developed during my internship, focused on
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/obaidmomin/obaidmomin/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/mominobaid/mominobaid/blob/output/github-contribution-grid-snake.svg)
 
 
 
