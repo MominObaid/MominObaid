@@ -80,26 +80,6 @@ A **React Native mobile application** developed during my internship, focused on
 
 ---
 
-## 📊 GitHub Stats
-
-![Obaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=obaidmomin&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=obaidmomin&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obaidmomin&layout=compact&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=obaidmomin&theme=tokyo-night)
-
-
-
----
-
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/mominobaid/mominobaid/blob/output/github-contribution-grid-snake.svg)
-
-
 
 
 ## 📫 Connect With Me
