@@ -39,7 +39,7 @@ My focus is on developing **scalable Android applications** while continuously i
 
 ## 📱 Featured Projects
 
-### 🏋️ Workout Tracker App
+### 🏋️ GYMLOG -- Workout Tracker App
 A mobile application that helps users track workouts, manage fitness routines, and monitor progress.
 
 **Tech Used**
