@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Obaid Momin
+# 👋 Hi, I'm Momin Obaid 
 
 💻 **Mobile App (Android) Developer**  
 ⚡ Electronics Engineer transitioning into **Software Development**
