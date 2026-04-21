@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Momin Obaid 
 
 💻 **Mobile App (Android) Developer**  
-⚡ Electronics Engineer transitioning into **Software Development**
+
+
+Aspiring Mobile App Developer with hands-on experience in Android development using Kotlin and React Native for cross-platform applications. 
+and building user-focused mobile applications and actively seeking a full-time role to contribute, learn, and grow in mobile app development.
 
 I enjoy building **mobile applications that solve real-world problems** and creating clean, intuitive user experiences.  
 My focus is on developing **scalable Android applications** while continuously improving my skills in modern mobile technologies.
