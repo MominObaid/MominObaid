@@ -3,7 +3,7 @@
 💻 **Mobile App (Android) Developer**  
 
 
-Aspiring Mobile App Developer with hands-on experience in Android development using Kotlin and React Native for cross-platform applications. 
+Aspiring **Mobile App Developer** with hands-on experience in Android development using **Kotlin** and **React Native** for cross-platform applications. 
 and building user-focused mobile applications and actively seeking a full-time role to contribute, learn, and grow in mobile app development.
 
 I enjoy building **mobile applications that solve real-world problems** and creating clean, intuitive user experiences.  
