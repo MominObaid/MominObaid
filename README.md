@@ -85,7 +85,6 @@ A **React Native mobile application** developed during my internship, focused on
 ---
 
 
-
 ## 📫 Connect With Me
 
 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN  ](https://www.linkedin.com/in/momin-obaid-344769103/)
